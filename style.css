@@ -107,7 +107,6 @@ header {
     header {
         max-width: 1040px;
         height: 100px;
-        background-color: hsl(217, 28%, 15%);
     }   
 
     .nav a {
